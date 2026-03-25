@@ -1,0 +1,6 @@
+# Ignore python cache
+*.pyc
+__pycache__/
+
+# macOS metadata
+.DS_Store
